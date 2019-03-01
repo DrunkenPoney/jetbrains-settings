@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="projects" value="/home/drunkenponey/projects" />
+  </component>
+</application>
