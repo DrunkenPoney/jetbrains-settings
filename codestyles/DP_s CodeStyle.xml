@@ -80,6 +80,7 @@
     <option name="WRAP_COMMENTS" value="true" />
     <option name="SOFT_MARGINS" value="100,120" />
     <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
