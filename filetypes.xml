@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="import-gpx" type="Bash" />
+      <mapping pattern=".bashrc_custom" type="Bash" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
