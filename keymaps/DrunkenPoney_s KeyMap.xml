@@ -45,6 +45,9 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="Move" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt c" />
+  </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="d" />
   </action>
