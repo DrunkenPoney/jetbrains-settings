@@ -6,14 +6,6 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="drunkenponey" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com&quot;" />
-          <option name="userName" value="drunkenponey" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://dev.azure.com" />
-          <option name="userName" value="669E19-4-Talena" />
-        </UrlAndUserName>
       </list>
     </option>
   </component>
